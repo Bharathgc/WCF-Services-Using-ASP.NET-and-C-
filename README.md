@@ -17,8 +17,8 @@ Convert entered Degree Celsius to Fahrenheit and Vice Versa. We implemented this
 ### 3. Service Development and Deployment and Remote Binding
 - Implemented a Service Oriented Computing System
 - There were 5 services that were implemented
-  - Location Service - Enter the name of the place. Zip code, Latitude and Longitude will be returned. This is implemented using Google Maps Api
-  - Image Service - Enter the name of place, Images of the place will be returned. This is implemented using PixaBay APi
+  - Location Service - Enter the name of the place. Zip code, Latitude and Longitude will be returned. This is implemented using [Google Maps Api](https://cloud.google.com/maps-platform/)
+  - Image Service - Enter the name of place, Images of the place will be returned. This is implemented using [PixaBay APi](https://pixabay.com/api/docs/)
   - Distance Service - Enter the Source and Desitnation, The distance in Kms will be returned. This implemented using Google Maps APi
   - Crime Data Service - Enter a Place name and the Voilent and property crime rates are returned
   - Weather Data Service - Enter a Place name and wind intensity of the place will be returned.
