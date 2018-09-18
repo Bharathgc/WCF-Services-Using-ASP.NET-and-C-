@@ -1,0 +1,9 @@
+c:\users\bgunari\documents\visual studio 2017\Projects\TemperatureWindowsFormApp\TemperatureWindowsFormApp\bin\Debug\TemperatureWindowsFormApp.exe.config
+c:\users\bgunari\documents\visual studio 2017\Projects\TemperatureWindowsFormApp\TemperatureWindowsFormApp\bin\Debug\TemperatureWindowsFormApp.exe
+c:\users\bgunari\documents\visual studio 2017\Projects\TemperatureWindowsFormApp\TemperatureWindowsFormApp\bin\Debug\TemperatureWindowsFormApp.pdb
+c:\users\bgunari\documents\visual studio 2017\Projects\TemperatureWindowsFormApp\TemperatureWindowsFormApp\obj\Debug\TemperatureWindowsFormApp.csprojResolveAssemblyReference.cache
+c:\users\bgunari\documents\visual studio 2017\Projects\TemperatureWindowsFormApp\TemperatureWindowsFormApp\obj\Debug\TemperatureWindowsFormApp.Form1.resources
+c:\users\bgunari\documents\visual studio 2017\Projects\TemperatureWindowsFormApp\TemperatureWindowsFormApp\obj\Debug\TemperatureWindowsFormApp.Properties.Resources.resources
+c:\users\bgunari\documents\visual studio 2017\Projects\TemperatureWindowsFormApp\TemperatureWindowsFormApp\obj\Debug\TemperatureWindowsFormApp.csproj.GenerateResource.Cache
+c:\users\bgunari\documents\visual studio 2017\Projects\TemperatureWindowsFormApp\TemperatureWindowsFormApp\obj\Debug\TemperatureWindowsFormApp.exe
+c:\users\bgunari\documents\visual studio 2017\Projects\TemperatureWindowsFormApp\TemperatureWindowsFormApp\obj\Debug\TemperatureWindowsFormApp.pdb
