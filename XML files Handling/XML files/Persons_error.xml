@@ -1,0 +1,79 @@
+<?xml version="1.0"?>
+<Persons>
+    <Person>
+        <Name>
+            <First>Bharath</First>
+            <Last>Gunari</Last>
+        </Name>
+        <Credential>
+            <Id>12345</Id>
+            <Password Encryption="yes">password1</Password>
+        </Credential>
+        <Phone>
+            <Work>123456789</Work>
+            <Cell Provider="T-Mobile">234567891</Cell>
+        </Phone>
+        <Category>Friend</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Tony</First>
+            <Last>Stark</Last>
+        </Name>
+        <Credential>
+            <Id>23456</Id>
+            <Password>password2</Password>
+        </Credential>
+        <Phone>
+            <Work>345678912</Work>
+            <Cell Provider="ATnT">456789123</Cell>
+        </Phone>
+        <Category>Family</Category>
+    </Person>
+    <Person>
+        <Name>
+            <First>Captain</First>
+            <Last>America</Last>
+        </Name>
+        <Credential>
+            <Id>34567</Id>
+            <Password Encryption="yes">password3</Password>
+        </Credential>
+        <Phone>
+            <Work>567891234</Work>
+            <Cell>678912345</Cell>
+        </Phone>
+        <Category>Work</Category>
+    </Person>
+	<Person>
+        <Name>
+            <First>Black</First>
+            <Last>Widow</Last>
+        </Name>
+        <Credential>
+            <Id>45678</Id>
+            <Password Encryption="no">password4</Password>
+        </Credential>
+        <Phone>
+            <Work>789123456</Work>
+            <Cell>891234567</Cell>
+        </Phone>
+        <Category>Family</Category>
+    </Person>
+	<Person>
+        <Name>
+            <First>Bruce</First>
+            <Last>Banner</Last>
+        </Name>
+        <Credential>
+            <Id>56789</Id>
+            <Password Encryption="yes">password5</Password>
+        </Credential>
+        <Phone>
+            <Work>9123456789</Work>
+            <Cell>7539512684</Cell>
+        </Phone>
+        <Category>Work</Category>
+    </Person>
+    
+</Persons>
