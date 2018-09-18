@@ -37,6 +37,10 @@ Convert entered Degree Celsius to Fahrenheit and Vice Versa. We implemented this
   - Manager can see all the users and staff info including everyone's passwords
   - Staff can see only users details without passwords
   
+### Testing
+
+Download all the services. Open their respective `sln` files and run all the peripheral serivces before running the main service.
+
 ### License
 
 This project is licensed under the MIT License - see the [LICENSE.md](https://github.com/Bharathgc/WCF-Services-Using-ASP.NET-and-CSharp-/blob/master/LICENSE) file for details
