@@ -1,0 +1,204 @@
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\ApplicationInsights.config
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\csc.exe
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\csc.exe.config
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\csc.rsp
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\csi.exe
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\csi.rsp
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\Microsoft.CSharp.Core.targets
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\System.AppContext.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\System.Collections.Immutable.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\System.Diagnostics.StackTrace.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\System.IO.FileSystem.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\System.Reflection.Metadata.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\vbc.exe
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\vbc.exe.config
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\vbc.rsp
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\VBCSCompiler.exe
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\roslyn\VBCSCompiler.exe.config
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\BharathService.dll.config
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\BharathService.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\BharathService.pdb
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Antlr3.Runtime.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\AspNet.ScriptManager.bootstrap.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\AspNet.ScriptManager.jQuery.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AI.Agent.Intercept.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AI.DependencyCollector.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AI.PerfCounterCollector.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AI.Web.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AI.WindowsServer.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.ApplicationInsights.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AspNet.FriendlyUrls.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.ScriptManager.MSAjax.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.ScriptManager.WebForms.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.Web.Infrastructure.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Newtonsoft.Json.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\System.Web.Optimization.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\WebGrease.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\System.Web.Optimization.xml
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Antlr3.Runtime.pdb
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AspNet.FriendlyUrls.xml
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Newtonsoft.Json.xml
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.ApplicationInsights.xml
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AI.DependencyCollector.xml
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AI.WindowsServer.xml
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\Microsoft.AI.Web.xml
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\obj\Debug\BharathService.csprojResolveAssemblyReference.cache
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\obj\Debug\BharathService.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\obj\Debug\BharathService.pdb
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\System.Net.Http.Formatting.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\System.Web.Http.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\System.Web.Http.WebHost.dll
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\System.Net.Http.Formatting.xml
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\System.Web.Http.xml
+c:\users\cgola\documents\visual studio 2017\Projects\BharathService\BharathService\bin\System.Web.Http.WebHost.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\ApplicationInsights.config
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\csc.exe
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\csc.exe.config
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\csc.rsp
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\csi.exe
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\csi.rsp
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\System.AppContext.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\vbc.exe
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\vbc.exe.config
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\vbc.rsp
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\VBCSCompiler.exe
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\BharathService.dll.config
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\BharathService.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\BharathService.pdb
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Antlr3.Runtime.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AI.Web.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Newtonsoft.Json.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\System.Net.Http.Formatting.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\System.Web.Http.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\System.Web.Http.WebHost.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\System.Web.Optimization.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\WebGrease.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\System.Net.Http.Formatting.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\System.Web.Http.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\System.Web.Http.WebHost.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\System.Web.Optimization.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Antlr3.Runtime.pdb
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Newtonsoft.Json.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\bin\Microsoft.AI.Web.xml
+C:\Users\cgola\Desktop\BharathService\BharathService\obj\Debug\BharathService.csprojResolveAssemblyReference.cache
+C:\Users\cgola\Desktop\BharathService\BharathService\obj\Debug\BharathService.dll
+C:\Users\cgola\Desktop\BharathService\BharathService\obj\Debug\BharathService.pdb
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\ApplicationInsights.config
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\csc.exe
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\csc.exe.config
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\csc.rsp
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\csi.exe
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\csi.rsp
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.CSharp.Scripting.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.Scripting.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\Microsoft.DiaSymReader.Native.amd64.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\Microsoft.DiaSymReader.Native.x86.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\System.AppContext.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\System.Diagnostics.StackTrace.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\System.IO.FileSystem.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\System.IO.FileSystem.Primitives.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\vbc.exe
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\vbc.exe.config
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\vbc.rsp
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\VBCSCompiler.exe
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\BharathService.dll.config
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\BharathService.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\BharathService.pdb
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Antlr3.Runtime.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\AspNet.ScriptManager.bootstrap.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\AspNet.ScriptManager.jQuery.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AI.Web.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.ApplicationInsights.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AspNet.FriendlyUrls.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AspNet.Web.Optimization.WebForms.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.ScriptManager.MSAjax.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.ScriptManager.WebForms.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Newtonsoft.Json.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\System.Net.Http.Formatting.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\System.Web.Http.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\System.Web.Http.WebHost.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\System.Web.Optimization.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\WebGrease.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\System.Net.Http.Formatting.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\System.Web.Http.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\System.Web.Http.WebHost.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\System.Web.Optimization.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Antlr3.Runtime.pdb
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AspNet.FriendlyUrls.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Newtonsoft.Json.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.ApplicationInsights.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\bin\Microsoft.AI.Web.xml
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\obj\Debug\BharathService.csprojResolveAssemblyReference.cache
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\obj\Debug\BharathService.dll
+C:\Users\cgola\Desktop\New folder (2)\BharathService\BharathService\obj\Debug\BharathService.pdb

@@ -1,0 +1,16 @@
+c:\users\cgola\documents\visual studio 2017\Projects\CrimesData\CrimesData\obj\Debug\CrimesData.csprojResolveAssemblyReference.cache
+c:\users\cgola\documents\visual studio 2017\Projects\CrimesData\CrimesData\bin\CrimesData.dll.config
+c:\users\cgola\documents\visual studio 2017\Projects\CrimesData\CrimesData\bin\CrimesData.dll
+c:\users\cgola\documents\visual studio 2017\Projects\CrimesData\CrimesData\bin\CrimesData.pdb
+c:\users\cgola\documents\visual studio 2017\Projects\CrimesData\CrimesData\bin\Newtonsoft.Json.dll
+c:\users\cgola\documents\visual studio 2017\Projects\CrimesData\CrimesData\bin\Newtonsoft.Json.xml
+c:\users\cgola\documents\visual studio 2017\Projects\CrimesData\CrimesData\obj\Debug\CrimesData.dll
+c:\users\cgola\documents\visual studio 2017\Projects\CrimesData\CrimesData\obj\Debug\CrimesData.pdb
+C:\Users\cgola\Desktop\New folder (2)\CrimesData\CrimesData\bin\CrimesData.dll.config
+C:\Users\cgola\Desktop\New folder (2)\CrimesData\CrimesData\bin\CrimesData.dll
+C:\Users\cgola\Desktop\New folder (2)\CrimesData\CrimesData\bin\CrimesData.pdb
+C:\Users\cgola\Desktop\New folder (2)\CrimesData\CrimesData\bin\Newtonsoft.Json.dll
+C:\Users\cgola\Desktop\New folder (2)\CrimesData\CrimesData\bin\Newtonsoft.Json.xml
+C:\Users\cgola\Desktop\New folder (2)\CrimesData\CrimesData\obj\Debug\CrimesData.csprojResolveAssemblyReference.cache
+C:\Users\cgola\Desktop\New folder (2)\CrimesData\CrimesData\obj\Debug\CrimesData.dll
+C:\Users\cgola\Desktop\New folder (2)\CrimesData\CrimesData\obj\Debug\CrimesData.pdb

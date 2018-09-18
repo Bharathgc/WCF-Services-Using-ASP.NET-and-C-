@@ -1,0 +1,8 @@
+c:\users\cgola\documents\visual studio 2017\Projects\LatitudeLongitutdeZipcodeService\LatitudeLongitutdeZipcodeService\bin\LatitudeLongitutdeZipcodeService.dll.config
+c:\users\cgola\documents\visual studio 2017\Projects\LatitudeLongitutdeZipcodeService\LatitudeLongitutdeZipcodeService\bin\LatitudeLongitutdeZipcodeService.dll
+c:\users\cgola\documents\visual studio 2017\Projects\LatitudeLongitutdeZipcodeService\LatitudeLongitutdeZipcodeService\bin\LatitudeLongitutdeZipcodeService.pdb
+c:\users\cgola\documents\visual studio 2017\Projects\LatitudeLongitutdeZipcodeService\LatitudeLongitutdeZipcodeService\bin\Newtonsoft.Json.dll
+c:\users\cgola\documents\visual studio 2017\Projects\LatitudeLongitutdeZipcodeService\LatitudeLongitutdeZipcodeService\bin\Newtonsoft.Json.xml
+c:\users\cgola\documents\visual studio 2017\Projects\LatitudeLongitutdeZipcodeService\LatitudeLongitutdeZipcodeService\obj\Debug\LatitudeLongitutdeZipcodeService.csprojResolveAssemblyReference.cache
+c:\users\cgola\documents\visual studio 2017\Projects\LatitudeLongitutdeZipcodeService\LatitudeLongitutdeZipcodeService\obj\Debug\LatitudeLongitutdeZipcodeService.dll
+c:\users\cgola\documents\visual studio 2017\Projects\LatitudeLongitutdeZipcodeService\LatitudeLongitutdeZipcodeService\obj\Debug\LatitudeLongitutdeZipcodeService.pdb

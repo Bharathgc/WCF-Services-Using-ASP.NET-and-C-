@@ -1,0 +1,8 @@
+c:\users\cgola\documents\visual studio 2017\Projects\ImageService\ImageService\bin\ImageService.dll.config
+c:\users\cgola\documents\visual studio 2017\Projects\ImageService\ImageService\bin\ImageService.dll
+c:\users\cgola\documents\visual studio 2017\Projects\ImageService\ImageService\bin\ImageService.pdb
+c:\users\cgola\documents\visual studio 2017\Projects\ImageService\ImageService\bin\Newtonsoft.Json.dll
+c:\users\cgola\documents\visual studio 2017\Projects\ImageService\ImageService\bin\Newtonsoft.Json.xml
+c:\users\cgola\documents\visual studio 2017\Projects\ImageService\ImageService\obj\Debug\ImageService.csprojResolveAssemblyReference.cache
+c:\users\cgola\documents\visual studio 2017\Projects\ImageService\ImageService\obj\Debug\ImageService.dll
+c:\users\cgola\documents\visual studio 2017\Projects\ImageService\ImageService\obj\Debug\ImageService.pdb

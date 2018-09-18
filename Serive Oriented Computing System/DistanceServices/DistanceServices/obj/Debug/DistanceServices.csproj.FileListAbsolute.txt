@@ -1,0 +1,16 @@
+c:\users\cgola\documents\visual studio 2017\Projects\DistanceServices\DistanceServices\bin\DistanceServices.dll.config
+c:\users\cgola\documents\visual studio 2017\Projects\DistanceServices\DistanceServices\bin\DistanceServices.dll
+c:\users\cgola\documents\visual studio 2017\Projects\DistanceServices\DistanceServices\bin\DistanceServices.pdb
+c:\users\cgola\documents\visual studio 2017\Projects\DistanceServices\DistanceServices\obj\Debug\DistanceServices.csprojResolveAssemblyReference.cache
+c:\users\cgola\documents\visual studio 2017\Projects\DistanceServices\DistanceServices\obj\Debug\DistanceServices.dll
+c:\users\cgola\documents\visual studio 2017\Projects\DistanceServices\DistanceServices\obj\Debug\DistanceServices.pdb
+C:\Users\cgola\Documents\Visual Studio 2017\Projects\DistanceServices\DistanceServices\bin\Newtonsoft.Json.dll
+C:\Users\cgola\Documents\Visual Studio 2017\Projects\DistanceServices\DistanceServices\bin\Newtonsoft.Json.xml
+C:\Users\cgola\Desktop\DistanceServices\DistanceServices\bin\DistanceServices.dll.config
+C:\Users\cgola\Desktop\DistanceServices\DistanceServices\bin\DistanceServices.dll
+C:\Users\cgola\Desktop\DistanceServices\DistanceServices\bin\DistanceServices.pdb
+C:\Users\cgola\Desktop\DistanceServices\DistanceServices\bin\Newtonsoft.Json.dll
+C:\Users\cgola\Desktop\DistanceServices\DistanceServices\bin\Newtonsoft.Json.xml
+C:\Users\cgola\Desktop\DistanceServices\DistanceServices\obj\Debug\DistanceServices.csprojResolveAssemblyReference.cache
+C:\Users\cgola\Desktop\DistanceServices\DistanceServices\obj\Debug\DistanceServices.dll
+C:\Users\cgola\Desktop\DistanceServices\DistanceServices\obj\Debug\DistanceServices.pdb
