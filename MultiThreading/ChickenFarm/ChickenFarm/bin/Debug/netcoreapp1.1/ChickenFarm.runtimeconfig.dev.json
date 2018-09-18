@@ -1,0 +1,8 @@
+{
+  "runtimeOptions": {
+    "additionalProbingPaths": [
+      "C:\\Users\\ravia\\.dotnet\\store\\|arch|\\|tfm|",
+      "C:\\Users\\ravia\\.nuget\\packages"
+    ]
+  }
+}

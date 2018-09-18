@@ -1,0 +1,11 @@
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp2.0\ChickenFarm.deps.json
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp2.0\ChickenFarm.runtimeconfig.json
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp2.0\ChickenFarm.runtimeconfig.dev.json
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp2.0\ChickenFarm.dll
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp2.0\ChickenFarm.pdb
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp2.0\ChickenFarm.csprojAssemblyReference.cache
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp2.0\ChickenFarm.csproj.CoreCompileInputs.cache
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp2.0\ChickenFarm.AssemblyInfoInputs.cache
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp2.0\ChickenFarm.AssemblyInfo.cs
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp2.0\ChickenFarm.dll
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp2.0\ChickenFarm.pdb

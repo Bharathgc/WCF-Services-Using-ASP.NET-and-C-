@@ -1,0 +1,20 @@
+c:\users\bgunari\documents\visual studio 2017\Projects\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp1.1\ChickenFarm.deps.json
+c:\users\bgunari\documents\visual studio 2017\Projects\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp1.1\ChickenFarm.runtimeconfig.json
+c:\users\bgunari\documents\visual studio 2017\Projects\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp1.1\ChickenFarm.runtimeconfig.dev.json
+c:\users\bgunari\documents\visual studio 2017\Projects\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp1.1\ChickenFarm.csprojResolveAssemblyReference.cache
+c:\users\bgunari\documents\visual studio 2017\Projects\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp1.1\ChickenFarm.AssemblyInfo.cs
+c:\users\bgunari\documents\visual studio 2017\Projects\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp1.1\ChickenFarm.dll
+c:\users\bgunari\documents\visual studio 2017\Projects\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp1.1\ChickenFarm.pdb
+c:\users\bgunari\documents\visual studio 2017\Projects\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp1.1\ChickenFarm.dll
+c:\users\bgunari\documents\visual studio 2017\Projects\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp1.1\ChickenFarm.pdb
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp1.1\ChickenFarm.deps.json
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp1.1\ChickenFarm.runtimeconfig.json
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp1.1\ChickenFarm.runtimeconfig.dev.json
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp1.1\ChickenFarm.dll
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\bin\Debug\netcoreapp1.1\ChickenFarm.pdb
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp1.1\ChickenFarm.csprojAssemblyReference.cache
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp1.1\ChickenFarm.csproj.CoreCompileInputs.cache
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp1.1\ChickenFarm.AssemblyInfoInputs.cache
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp1.1\ChickenFarm.AssemblyInfo.cs
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp1.1\ChickenFarm.dll
+C:\Users\ravia\Downloads\ChickenFarm\ChickenFarm\obj\Debug\netcoreapp1.1\ChickenFarm.pdb
